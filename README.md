@@ -64,7 +64,7 @@ HISTOGRAM ANALYSIS: Histogram analysis is conducted for both the cover image and
 ![op13](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/2a6db5b4-c0fc-45c0-85b3-95adf42002cc)
 ![op14](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/ffbdb42f-1216-46fe-a042-75de24399777)
 
-![op15](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/1d748be7-7023-4a9c-bbfb-61c68f0bf4c4)
+![OP15](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/8967e550-a3f5-4d01-8500-d159b9f9357f)
 ![op16](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/0d621954-3b93-4962-9e0f-fbb654ed6a72)
 ![op17](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/06ae4e21-600e-44e1-bd26-cae0ea7c3dfe)
 ![op18](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/68f6f7c0-32ff-4f76-8a1d-7dc6e13341c3)
@@ -73,7 +73,7 @@ HISTOGRAM ANALYSIS: Histogram analysis is conducted for both the cover image and
 ![op21](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/1e9a1c84-06be-42ca-9dc0-06c3ab101f9c)
 ![op22](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/94cb3ab4-bc85-4a00-9903-253e60cf3273)
 
-![op23](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/3e0310d1-7ee2-46e2-b720-a592eccad305)
+![OP23](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/8706437c-e936-43a6-bbe4-7f20eec538ee)
 ![op24](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/027d1d24-a979-42ee-ba68-a2348d73e886)
 ![op25](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/c42cd156-43b5-44c5-9ffd-6bda8eccd70f)
 ![op26](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/8002cbfc-c7d1-4441-be98-a17a454bc590)
@@ -83,6 +83,6 @@ HISTOGRAM ANALYSIS: Histogram analysis is conducted for both the cover image and
 ![op30](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/9392f8d7-12ca-40f7-b7e4-06c6e9b415f7)
 ![op31](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/e07a569a-6b7c-4946-83ba-7a167658a06c)
 
-![op32](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/ce1eba09-7e85-4c18-98ea-a5108c76129f)
+![op32](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/e96463a0-7eaf-4dfa-9397-f701e6beac61)
 ![op33](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/c99641af-8eb3-446e-afa1-d7a4c5f1ebf0)
 
