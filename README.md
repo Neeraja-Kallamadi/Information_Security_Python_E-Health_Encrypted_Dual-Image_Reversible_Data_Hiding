@@ -21,16 +21,19 @@ STATISTICAL METRICS: To thoroughly evaluate the performance of this specified al
 
 HISTOGRAM ANALYSIS: Histogram analysis is conducted for both the cover image and the stego image. A histogram is a visual representation of pixel intensity distribution within an image. Attackers often employ histogram analysis to gain insights into embedded information, comparing histograms of the cover and stego images. The robustness of a data hiding method is determined by the degree of similarity between corresponding histograms, with closer resemblance indicating higher resistance to such attacks. This analysis provides valuable information regarding the algorithm's ability to conceal data effectively while maintaining the integrity of the image.
 
+# OVERVIEW:
 ![overview](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/2ef3c795-9b8b-498b-b6e1-76fd142e443a)
 
 ![test_images](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/e0ad5d42-6bad-49a9-9653-9957551b1d10)
 
 ![performance_metrics](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/37b01427-6da9-416a-b16c-dd2ecc0fb7f6)
 
+# PAILLIER CRYPTOSYSTEM ALGORITHM
 ![paillier1](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/38b6e2f1-83d9-464b-beee-058c4cb1162e)
 ![paillier2](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/a91dbe5a-e359-4b92-8a55-c4bce5974ee3)
 ![paillier3](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/f46b8555-f7c4-4251-b774-2ecb49f67141)
 
+# DATA EMBEDDING ALGORITHM
 ![data_embedding1](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/6afb42f8-5e16-4c25-8e23-2f5c46ee5c4f)
 ![data_embedding2](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/6207c4f7-9280-4d5c-baf8-cc473c29362e)
 ![data_embedding3](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/59e5c76c-3770-4ec8-ab21-7fab2090aa90)
@@ -38,6 +41,7 @@ HISTOGRAM ANALYSIS: Histogram analysis is conducted for both the cover image and
 ![data_embedding5](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/85c52106-fc32-4138-9f2d-116731ed854f)
 ![data_embedding6](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/9f422705-5326-49e5-bc88-5c7055b0e36c)
 
+# DATA EXTRACTION AND IMAGE RECOVERY ALGORITHM
 ![data_extraction_image_recovery1](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/ba0a741a-6ebb-4f93-9766-71ebe9a83c15)
 ![data_extraction_image_recovery2](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/1a4b823c-a976-431e-b8f5-8e06c21ef9f9)
 
