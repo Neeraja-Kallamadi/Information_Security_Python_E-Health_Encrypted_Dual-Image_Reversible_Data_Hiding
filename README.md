@@ -1,4 +1,4 @@
-![op12](https://github.com/Neeraja-Kallamadi/Information_Security_E-Health_Encrypted_Dual-Image_Reversible_Data_Hiding/assets/110168775/52972d45-6611-4989-bbc8-040be9fffee2)# ENCRYPTED DUAL-IMAGE REVERSIBLE DATA HIDING TO SECURE PATIENT INFORMATION IN E-HEALTHCARE
+# ENCRYPTED DUAL-IMAGE REVERSIBLE DATA HIDING TO SECURE PATIENT INFORMATION IN E-HEALTHCARE
 
 This project represents a cutting-edge fusion of information security principles, leveraging cryptographic measures and steganographic methods, to fortify the protection of patient data within the e-healthcare landscape.
 
